@@ -1,7 +1,7 @@
 <!-- Backend Engineering -->
 
 1. what is the role of a backend engineer ?
-- take design decesions (Architechture)
+- Take design decesions (Architechture)
 - How to divide your tasks
 - Write APIs, interact DB, Business Logic, Maintain Deployment Pipeline, Testing, Maintences, Documentations.
 
@@ -18,4 +18,4 @@
 
 4. Class Topics
 - Javascipt
-# Backend
+
