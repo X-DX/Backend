@@ -8,6 +8,7 @@
 2. Tech Used
 - JavaScript (FrontEnd, Backend, Script, Extensions, Mobile App, Desktop App)
 - Node JS
+- Git
 
 3. Course Topic
 - End to end micro-services based backed application
@@ -16,6 +17,16 @@
 - Testable JS application
 - Containers and able to containeries apps
 
-4. Class Topics
-- Javascipt
+4. Software Need
+- VS Code
+- Node JS
+
+5. Class Topics
+    Day 1 
+    - Introduction to Javascript
+    - ECMAScript
+    - Data Types
+    - Operators (typeof)
+    - Variable
+    
 
